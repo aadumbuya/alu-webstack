@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 # worldwide web
 # Configuring domain zone to www for my server
 function check_args() {
