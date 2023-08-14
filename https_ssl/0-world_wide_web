@@ -1,6 +1,5 @@
 #!usr/bin/env bash
 # worldwide web
-#!/usr/bin/env bash
 # Configuring domain zone to www for my server
 function check_args() {
 	if [ $# -lt 1 ]; then
